@@ -1,17 +1,19 @@
 <h1 align="center">안녕하세요. 이수완입니다.</h1>
-<h3 align="center">추진력과 실행력이 강한 Full-Stack Developer입니다.</h3>
+<h3 align="center">사용자 경험(UX)와 서버 경험(SX)를 생각하는 Full-Stack Developer입니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafael-lee-sw&label=Profile%20views&color=0e75b6&style=flat" alt="rafael-lee-sw" /> </p>
 
-- 🔭 현재 진행 중인 프로젝트 **Web WMS & POS(Warehouse Management System & Ponit Of Sale) Project : FitBox**
+- 🔭 현재 진행 중인 프로젝트 **Data ML and AI no code platform for who want to get a insight from their own datas**
 
-- 🌱 I’m currently learning **Next.js framework and AI learning**
+- 🌱 I’m currently learning **How to less call DB API and AI, ML models and how to serve them to the end user**
 
-- 👯 마친 프로젝트 **Web WMS(Warehouse Management System) Project : FitBox**
+- 👯 마친 프로젝트 **Web UPS(Unmanned Payment System) with AI ditecting crime and forecasting and reporting by the ML Project : Auto-Store**
 
-- ⌨ 학습한 프로젝트 **WEB-Project about Oauth 2.0 and payment**
+- ⌨ 학습한 프로젝트 **Improvement UX and DB controling on front level and ML**
 
-- 💬 Ask me about **React, javaScript, Spring, Java etc**
+- 💬 Programming stack **Next.js, React, javaScript, Spring, Java, MySQL, Python, R**
+
+- 💬 AI and ML model **SlowFast, X3D / LSTM, Random forest**
 
 - 📫 How to reach me **ale783@naver.com**
 
