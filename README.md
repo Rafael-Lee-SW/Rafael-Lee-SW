@@ -1,5 +1,5 @@
 <h1 align="center">안녕하세요. 이수완입니다.</h1>
-<h3 align="center">사용자 경험(UX)와 서버 경험(SX)를 생각하는 Full-Stack Developer입니다.</h3>
+<h3 align="center">사용자 경험(UX)와 최적의 서버 사용을 생각하는 Full-Stack Developer입니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafael-lee-sw&label=Profile%20views&color=0e75b6&style=flat" alt="rafael-lee-sw" /> </p>
 
