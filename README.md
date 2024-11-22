@@ -1,29 +1,94 @@
-<h1 align="center">안녕하세요. 이수완입니다.</h1>
-<h3 align="center">사용자 경험(UX)와 최적의 서버 사용을 생각하는 Full-Stack Developer입니다.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafael-lee-sw&label=Profile%20views&color=0e75b6&style=flat" alt="rafael-lee-sw" /> </p>
-
-- 🔭 현재 진행 중인 프로젝트 **Data ML and AI no code platform for who want to get a insight from their own datas**
-
-- 🌱 I’m currently learning **How to less call DB API and AI, ML models and how to serve them to the end user**
-
-- 👯 마친 프로젝트 **Web UPS(Unmanned Payment System) with AI ditecting crime and forecasting and reporting by the ML Project : Auto-Store**
-
-- ⌨ 학습한 프로젝트 **Improvement UX and DB controling on front level and ML**
-
-- 💬 Programming stack **Next.js, React, javaScript, Spring, Java, MySQL, Python, R**
-
-- 💬 AI and ML model **SlowFast, X3D / LSTM, Random forest**
-
-- 📫 How to reach me **ale783@naver.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&duration=2500&color=36BCF7&center=true&vCenter=true&lines=Hello%2C+I'm+Suwan+Lee+%F0%9F%91%8B;Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-lee-sw&show_icons=true&locale=en&layout=compact" alt="rafael-lee-sw" /></p>
+<p align="center">
+  <a href="mailto:ale783@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- Add more social links here -->
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-lee-sw&show_icons=true&locale=en" alt="rafael-lee-sw" /></p>
+---
+
+### 🌟 About Me
+
+- 🌱 **Currently Learning:** Explainable AI, Business applications of AI models
+- 💡 **Passionate About:** Full-stack development, AI & Machine Learning, UX/UI Design, optimizing server calls
+- 🤝 **Open to:** Collaborations and exciting job opportunities
+
+---
+
+### 🚀 Projects
+
+1. #### **CDS Platform - "원하는Da로"**
+   - A platform integrating LLMs and AI models, enabling anyone to leverage AI with just their data.
+   - [🔗 GitHub Repository](https://github.com/Rafael-Lee-SW/Wada-AI-CDS-Platform)
+
+2. #### **AI Unmanned Store Management System - "Auto-Store"**
+   - An unmanned store management system featuring AI-CCTV security and machine learning demand forecasting.
+   - [🔗 GitHub Repository](https://github.com/Rafael-Lee-SW/UPS-with-AI-and-ML)
+
+3. #### **WMS Project - "Fit-Box"**
+   - A warehouse management system with visualization of large-scale logistics data, optimization, and easy inventory management.
+   - [🔗 GitHub Repository](https://github.com/Rafael-Lee-SW/Financial-Project)
+
+4. #### **Shinhan Bank Hackathon Project - "SEL (Shinhan-Eco-Leading)"**
+   - A web app focused on promoting ESG through the activation of eco-friendly points.
+   - [🔗 GitHub Repository](https://github.com/Rafael-Lee-SW/WMS-project)
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**AI/ML Frameworks**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-FF5500?style=flat-square&logo=ray&logoColor=white)
+
+---
+
+### 🤖 AI & ML Expertise
+
+- **Models & Techniques:** Prompt Engineering, SlowFast, X3D, LSTM, Random Forest, Logistic Regression, K-means Clustering, Neural Networks, Support Vector Machine
+- **Interests:** Machine Learning algorithms, Data Analysis, AI-driven solutions
+
+---
+
+### 📫 Connect with Me
+
+- 📧 **Email:** [ale783@naver.com](mailto:ale783@naver.com)
+<!-- - 💼 **LinkedIn:** [이수완](https://www.linkedin.com/in/%EC%88%98%EC%99%84-%EC%9D%B4-01299428b/) -->
+<!-- - 🌐 **GitHub:** [Rafael-Lee-SW](https://github.com/Rafael-Lee-SW) -->
+
+---
+
+*Feel free to reach out for collaborations or just a friendly chat!*
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Markdown">
+</p>
