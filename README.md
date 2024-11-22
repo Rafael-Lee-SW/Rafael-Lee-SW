@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&duration=2500&color=36BCF7&center=true&vCenter=true&lines=Hello%2C+I'm+Suwan+Lee+%F0%9F%91%8B;Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=36&duration=2500&color=36BCF7&center=true&vCenter=true&lines=Hello%2C+I'm+Suwan+Lee+%F0%9F%91%8B;Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG">
 </p>
 
 ---
@@ -83,12 +83,5 @@
 <!-- - 🌐 **GitHub:** [Rafael-Lee-SW](https://github.com/Rafael-Lee-SW) -->
 
 ---
-
-*Feel free to reach out for collaborations or just a friendly chat!*
-
----
-
 <!-- Footer -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Markdown">
-</p>
+
